@@ -10,30 +10,25 @@ Offline Mode: Save articles for offline reading.
 # 🎥 Demo Video
 Watch a short video demonstration of the app to see its functionality in action.
 
-
-
 Replace YOUR_VIDEO_ID with the video URL for the demo.
 
-# 📸 Screenshots
-Home Screen
-Displays the latest trending news with easy access to categories and channel-based filtering.
+## 📸 Screenshots
+![Untitled design](https://github.com/user-attachments/assets/0ece7895-41f9-4619-b4a6-52da66eae088)
 
-
+# Home Screen
+![2](https://github.com/user-attachments/assets/8cacdf1b-6226-4a37-98b9-f90113597fa1)
+![3](https://github.com/user-attachments/assets/31f74bb6-2b1b-4a32-8aa9-ad2d6c50e1cd)
 
 # Category Selection
-Allows users to choose from categories like General, Health, Entertainment, and more.
-
-
+![6](https://github.com/user-attachments/assets/d5eb086a-64ef-4c2e-852e-14f0454f5189)
+![7](https://github.com/user-attachments/assets/5e31d291-ec7f-412e-8e2b-f5b243f16a95)
 
 # Channel Selection
-Choose from channels such as Ary News, BBC News, and Al Jazeera for a tailored news experience.
-
-
+![5](https://github.com/user-attachments/assets/454e0e7a-7635-417c-8458-c5c8a8088e40)
 
 # News Details
-See full details, images, and source information for each article.
-
-
+![8](https://github.com/user-attachments/assets/578cc5b0-6619-4f67-888d-e03221b8ce94)
+![4](https://github.com/user-attachments/assets/64b5af47-2428-461a-8bcf-86ea59676540)
 
 # 🛠️ Technologies Used
 Flutter
