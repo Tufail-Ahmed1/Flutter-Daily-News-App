@@ -10,8 +10,6 @@ Offline Mode: Save articles for offline reading.
 # 🎥 Demo Video
 Watch a short video demonstration of the app to see its functionality in action.
 
-Replace YOUR_VIDEO_ID with the video URL for the demo.
-
 ## 📸 Screenshots
 ![Untitled design](https://github.com/user-attachments/assets/0ece7895-41f9-4619-b4a6-52da66eae088)
 
